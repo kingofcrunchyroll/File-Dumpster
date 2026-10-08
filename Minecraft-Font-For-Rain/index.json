@@ -1,3 +1,25 @@
 {
-
+    "spec": 1,
+    "name": "Minecraft",
+    "previewText": "Minecraft",
+    "main": {
+        "ABCGintoNord-ExtraBold": "YOUR_MINECRAFT_BOLD_URL",
+        "ggsans-Bold": "YOUR_MINECRAFT_BOLD_URL",
+        "ggsans-BoldItalic": "YOUR_MINECRAFT_BOLDITALIC_URL",
+        "ggsans-ExtraBold": "YOUR_MINECRAFT_BOLD_URL",
+        "ggsans-ExtraBoldItalic": "YOUR_MINECRAFT_BOLDITALIC_URL",
+        "ggsans-Medium": "YOUR_MINECRAFT_REGULAR_URL",
+        "ggsans-MediumItalic": "YOUR_MINECRAFT_ITALIC_URL",
+        "ggsans-Normal": "YOUR_MINECRAFT_REGULAR_URL",
+        "ggsans-NormalItalic": "YOUR_MINECRAFT_ITALIC_URL",
+        "ggsans-Semibold": "YOUR_MINECRAFT_BOLD_URL",
+        "ggsans-SemiboldItalic": "YOUR_MINECRAFT_BOLDITALIC_URL",
+        "NotoSans-Bold": "YOUR_MINECRAFT_BOLD_URL",
+        "NotoSans-ExtraBold": "YOUR_MINECRAFT_BOLD_URL",
+        "NotoSans-Medium": "YOUR_MINECRAFT_REGULAR_URL",
+        "NotoSans-Normal": "YOUR_MINECRAFT_REGULAR_URL",
+        "NotoSans-NormalItalic": "YOUR_MINECRAFT_ITALIC_URL",
+        "NotoSans-Semibold": "YOUR_MINECRAFT_BOLD_URL",
+        "ggmono-Normal": "YOUR_MINECRAFT_REGULAR_URL"
+    }
 }
